@@ -14,6 +14,8 @@ All statistical analysis was performed using R version 4.0.2 (R Foundation for S
 #### Re-configures the Excel sheet data into suitable formats for the analysis
 ### 3. Analysis.R
 #### Analyses the data using multi-state modelling
+### 4. Figure 5 Observed Survival
+#### Survival plot using observed data by eras
 
 
 
